@@ -1,7 +1,7 @@
 # Triple Edge AI 
 
-[![Triple Your Efficiency](https://img.shields.io/badge/efficiency-tripled-blue)](https://metaknow.org) 
-[![AI Powered](https://img.shields.io/badge/AI-powered-brightgreen)](https://metaknow.org)
+[![Triple Your Efficiency](https://img.shields.io/badge/efficiency-tripled-blue)](https://metaknow.org/neural-apps/) 
+[![AI Powered](https://img.shields.io/badge/AI-powered-brightgreen)](https://metaknow.org/neural-apps/)
 
 Welcome to **Triple Edge AI**. We're here to triple your efficiency by revolutionizing how you manage your goals and tasks. With AI breaking down tasks for you and guiding you with the best pre-written, open-sourced prompts, we streamline your workflow like never before. 
 
